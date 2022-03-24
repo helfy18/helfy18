@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helfy18
 - 👀 I’m interested in game development and would love to work in that industry!
-- 🌱 I’m currently learning Software Engineering at Uvic. This semester has been about operating systems and theory of computation.
+- 🌱 I’m currently learning Software Engineering at Uvic. I have been working at PCIC for this semester!
 
 <!---
 helfy18/helfy18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
