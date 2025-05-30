@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @helfy18!
-- 🌱 I am a graduate from the University of Victoria with a BSEng in Software Engineering
+- Hi, I’m @helfy18!
+- UVic BSEng 2024
+- Associate Software Engineer @ 19Labs
 
 <!---
 helfy18/helfy18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
